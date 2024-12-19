@@ -1,0 +1,8 @@
+$minutes-arrow-width: 3vmin;
+$minutes-arrow-length: 20vmin;
+$second-arrow-width: 1.5vmin;
+$second-arrow-length: 38vmin;
+$clock-diameter: 80vmin;
+$center-dot-diameter: 5vmin;
+$minutes-arrow-position: ($clock-diameter - ($minutes-arrow-length * 2)) / 2;
+$second-arrow-position: ($clock-diameter - ($second-arrow-length * 2)) / 2;
